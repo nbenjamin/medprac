@@ -1,0 +1,28 @@
+{
+  "doctors": [
+    {
+      "name": "Ryan",
+      "location": "Kochi"
+    },
+    {
+      "name": "Adam",
+      "location": "Kochi"
+    },
+    {
+      "name": "Chris",
+      "location": "Kochi"
+    },
+    {
+      "name": "Santhosh",
+      "location": "Bangalore"
+    },
+    {
+      "name": "Jain",
+      "location": "Bangalore"
+    },
+    {
+      "name": "Hobby",
+      "location": "UK"
+    }
+  ]
+}

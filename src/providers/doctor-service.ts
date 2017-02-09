@@ -22,7 +22,7 @@ export class DoctorService {
         return Promise.resolve(this.data1);
       }
       return new Promise(resolve => {
-        this.http.get('build/json/doctors.json')
+        this.http.get('/json/doctors.json')
           .map(res => res.json())
           .subscribe(data => {
             this.data1 = data.doctors;
